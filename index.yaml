@@ -3,12 +3,22 @@ entries:
   whisperwebui:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-19T13:11:51.813964-04:00"
+    created: "2024-10-19T15:24:02.254902-04:00"
     description: A Helm chart for Kubernetes
-    digest: fe59751986db6c6ecafac85065dfc323361ba53a38a1ea71f5949ed30008ce33
+    digest: a0866ec348a96f663443629b5c3bbed48a581424a9cff48ae49ecd8e938bf0d6
     name: whisperwebui
     type: application
     urls:
     - whisperwebui-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-19T13:11:51.812793-04:00"
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-10-19T15:24:02.255481-04:00"
+    description: A Helm chart for Kubernetes
+    digest: fe59751986db6c6ecafac85065dfc323361ba53a38a1ea71f5949ed30008ce33
+    name: whisperwebui
+    type: application
+    urls:
+    - helm-charts/whisperwebui-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-19T15:24:02.254122-04:00"
