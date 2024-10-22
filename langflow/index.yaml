@@ -9,6 +9,6 @@ entries:
       name: langflow
       type: application
       urls:
-        - langflow/langflow-0.1.0.tgz
+        - langflow-0.1.0.tgz
       version: 0.1.0
 generated: '2024-10-21T20:36:32.458595-04:00'
