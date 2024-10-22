@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
   langflow:
-    - apiVersion: v2
-      appVersion: 1.0.0
-      created: '2024-10-21T20:36:32.459617-04:00'
-      description: A Helm chart for Kubernetes
-      digest: 068cac2d420c4f725f14b61e9f4c9a92aa29fb3bc5bbbd878c9ec4daa8cda3fe
-      name: langflow
-      type: application
-      urls:
-        - langflow-0.1.0.tgz
-      version: 0.1.0
-generated: '2024-10-21T20:36:32.458595-04:00'
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-10-21T21:27:37.989207-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 019f97df5a9085b44f84e401fdbcae2d99c41c0f606e6c8a29ef9d930291fbc6
+    name: langflow
+    type: application
+    urls:
+    - langflow-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-21T21:27:37.988235-04:00"
