@@ -3,14 +3,14 @@ entries:
   langflow-ide:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-10-22T05:08:50.244276-04:00"
+    created: "2024-10-22T05:28:32.680565-04:00"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: 16.0.4
     description: Helm chart for Langflow IDE
-    digest: c658d8f3bcdbb2e253784522cdedd6c3f0124c6e5b526ca595d84db72c2e0300
+    digest: 2afde846c940f40c5bd4eed39df8501164d1ded7736dd921741d82d3439c1f8a
     maintainers:
     - email: contact@langflow.org
       name: Langflow
@@ -19,4 +19,4 @@ entries:
     urls:
     - langflow-ide-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-22T05:08:50.240604-04:00"
+generated: "2024-10-22T05:28:32.675142-04:00"
